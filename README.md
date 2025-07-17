@@ -74,6 +74,13 @@
 - ✅ Certified in **Python**, **AI**, and **AWS Developer** (Infosys, NCAT, Springboard)
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YarramasuSindhuja&theme=gruvbox&no-frame=true&margin-w=10&row=2&column=3" />
+</p>
+
+---
 
 ### 🎯 Roles & Volunteering
 
